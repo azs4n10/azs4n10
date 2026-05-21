@@ -1,4 +1,4 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azs4n10&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 <!--
 **azs4n10/azs4n10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
