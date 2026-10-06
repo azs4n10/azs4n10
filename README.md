@@ -56,7 +56,7 @@
 </h2>
 
 <p align="center">
-  <img src="./github-metrics.svg?v=2" />
+  <img src="./github-metrics.svg?v=3" />
 </p>
 
 ---
