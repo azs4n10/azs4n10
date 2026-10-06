@@ -1,22 +1,58 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]  # 1日1回更新
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: azs4n10
+
           template: classic
           base: header, activity, community, repositories, metadata
+
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+
+          plugin_languages_colors: >
+            python:#ff8fb1,
+            javascript:#f9a8d4,
+            dart:#f472b6,
+            typescript:#e879f9,
+            jupyter notebook:#c084fc,
+            6:#a78bfa
+
+          extras_css: |
+            h1 {
+              color: #ff8fb1 !important;
+            }
+
+            h2 {
+              color: #f472b6 !important;
+            }
+
+            h3 {
+              color: #c084fc !important;
+            }
+
+            a {
+              color: #e879f9 !important;
+            }
+
+            .field svg {
+              color: #a78bfa !important;
+            }
