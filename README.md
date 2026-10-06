@@ -28,7 +28,10 @@
 
 ---
 
-## 📊 GitHub Activity
+<h2>
+  <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ff8fb1" width="24" height="24" />
+  GitHub Activity
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azs4n10&show_icons=true&theme=github_dark&hide_border=true" />
