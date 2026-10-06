@@ -1,6 +1,6 @@
 
 <p align="center">
-  <b>AI × Brain-Computer Interface × Software Development</b>
+  <b>Software Development</b>
 </p>
 
 <p align="center">
