@@ -10,7 +10,10 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2>
+  <img src="https://api.iconify.design/mdi/code-tags.svg?color=%23ff8fb1" width="24" height="24" />
+  Tech Stack
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +50,10 @@
 
 ---
 
-## 📈 Metrics
+<h2>
+  <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%23ff8fb1" width="24" height="24" />
+  Metrics
+</h2>
 
 <p align="center">
   <img src="./github-metrics.svg" />
@@ -55,7 +61,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2>
+  <img src="https://api.iconify.design/mdi/snake.svg?color=%23ff8fb1" width="24" height="24" />
+  Contribution Snake
+</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/azs4n10/azs4n10/output/github-contribution-grid-snake-dark.svg" />
@@ -63,7 +72,10 @@
 
 ---
 
-## 📫 Connect With Me
+<h2>
+  <img src="https://api.iconify.design/mdi/email-heart-outline.svg?color=%23ff8fb1" width="24" height="24" />
+  Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://github.com/azs4n10">
