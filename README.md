@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/azs4n10?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/azs4n10?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=azs4n10&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
