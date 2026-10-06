@@ -56,3 +56,11 @@ jobs:
             .field svg {
               color: #a78bfa !important;
             }
+
+            :root {
+              --color-calendar-graph-day-bg: #f6f0f4;
+              --color-calendar-graph-day-L1-bg: #fbcfe8;
+              --color-calendar-graph-day-L2-bg: #f9a8d4;
+              --color-calendar-graph-day-L3-bg: #f472b6;
+              --color-calendar-graph-day-L4-bg: #db2777;
+            }
